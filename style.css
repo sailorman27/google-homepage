@@ -2,7 +2,7 @@ body{font-family: sans-serif;
 font-size: small}
 
 .logo {position: static;
-    padding: 109px;
+    padding: 109px 109px 50px 109px;
     text-align: center;
 }
 .about {float: left;
@@ -48,5 +48,23 @@ font-size: small}
     text-decoration: underline;
 }
 .search{
-    margin-left: 40%;
+    display: block;
+    position: static;
+    border-color: gray;
+    text-align: center;
+    padding-bottom: 275px;
+
 }
+.nav{
+    text-
+    
+}
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+.ad {padding-right: 25px;}
+.term{padding-left: 25px;}
+.sett{padding-left: 25px;}
