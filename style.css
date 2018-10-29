@@ -1,0 +1,52 @@
+body{font-family: sans-serif;
+font-size: small}
+
+.logo {position: static;
+    padding: 109px;
+    text-align: center;
+}
+.about {float: left;
+    color: black;
+    text-decoration-line: unset;
+    padding: 15px;
+    padding-top: 15px;
+    opacity: .75;
+}
+.about:hover{cursor: pointer;
+    text-decoration: underline;
+}
+.store {float: left;
+    color: black;
+    text-decoration-line: unset;
+    padding: 15px;
+    padding-top: 15px;
+    opacity: .75;
+}
+.store:hover{cursor: pointer;
+    text-decoration: underline;
+}
+.gmail {
+    float: right;
+    color: black;
+    text-decoration-line: unset;
+    padding: 15px;
+    padding-top: 15px;
+    opacity: .75;
+}
+.gmail:hover{cursor: pointer;
+    text-decoration: underline;
+}
+.images {
+    float: right;
+    color: black;
+    text-decoration-line: unset;
+    padding: 15px;
+    padding-top: 15px;
+    opacity: .75;
+}
+.images:hover{cursor: pointer;
+    text-decoration: underline;
+}
+.search{
+    margin-left: 40%;
+}
