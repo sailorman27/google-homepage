@@ -53,6 +53,7 @@ font-size: small}
     border-color: gray;
     text-align: center;
     padding-bottom: 275px;
+    border-width: 150px;
 
 }
 .nav{
@@ -68,3 +69,4 @@ li {
 .ad {padding-right: 25px;}
 .term{padding-left: 25px;}
 .sett{padding-left: 25px;}
+.buttons{padding-top: 20px;}
